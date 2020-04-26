@@ -1,4 +1,6 @@
 # Open Decision
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffbennets%2Fopen-decision.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffbennets%2Fopen-decision?ref=badge_shield)
+
 
 Open Decision is an Open-Source Decision Automation System, that is optimized for legal processes. The system will be used to build a platform to provide free legal advice for consumers.
 
@@ -104,6 +106,9 @@ Please read [CONTRIBUTING.md](https://github.com/fbennets/open-decision/blob/mas
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/fbennets/open-decision/blob/master/LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffbennets%2Fopen-decision.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffbennets%2Fopen-decision?ref=badge_large)
 
 ## Links
 
