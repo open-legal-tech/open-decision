@@ -5,7 +5,7 @@ azure-storage-common==2.1.0
 bleach==3.1.4
 certifi==2019.11.28
 cffi==1.13.2
-cryptography==2.8
+cryptography==3.2
 dj-database-url==0.5.0
 Django==3.0.3
 django-allauth==0.41.0
